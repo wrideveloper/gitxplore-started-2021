@@ -75,15 +75,15 @@ Push project yang telah anda buat dengan perintah
 
 Buka kembali browsermu dan pergi ke repository gitting started milikmu. Jika berhasil melakukan perubahan atau penambahan suatu file maka akan muncul tombol berikut untuk membandingkan dan membuat pull request. Klik tombol berikut.
 
-![Compare Pull Request](img/comparepullreq.jpg)
+![Compare Pull Request](img/comparepullreq.png)
 
 Setelah itu scroll agak kebawah dan klik tombol create pull request
 
-![Create Pull Request](img/createpullrequest.jpg)
+![Create Pull Request](img/createpullrequest.png)
 
 Dan anda telah berhasil membuat pull request.
 
-![Pull Request](img/suksespullreq.jpg)
+![Pull Request](img/suksespullreq.png)
 
 Jika struktur folder anda sesuai maka pull request akan segera diacc dan dianggap valid. Namun jika tidak sesuai pull request akan diclose.
 
