@@ -8,7 +8,7 @@ GitXplore adalah Event Hacktoberfest yang diselenggarakan oleh WRI Polinema.
 
 Pada pojok kanan atas terdapat sebuah button untuk fork, silahkan fork repository ini
 
-![Forking Repo](img/fork.jpg)
+![Forking Repo](img/fork.png)
 
 ### 2. Clone Repository di Akunmu
 
