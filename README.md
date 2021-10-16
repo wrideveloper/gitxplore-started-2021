@@ -1,4 +1,4 @@
-# GitXplore 2021 :milky_way:
+# GitXplore 2021 :man_technologist:
 
 GitXplore adalah Event Hacktoberfest yang diselenggarakan oleh WRI Polinema.
 
