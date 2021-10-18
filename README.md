@@ -42,7 +42,7 @@ src/
 
 Jangan sembarangan dalam membuat struktur folder dan file ya, nanti pullreqnya akan kami anggap tidak valid :stuck_out_tongue:
 
-### 5. Tambahkan Script Yang Pernah Anda Buat :smirk_cat:
+### 5. Tambahkan file .MD anda seperti IDE / Gambaran / Project Screenshoot :smirk_cat:
 
 Setelah itu tambahkan file yang pernah anda buat didalam folder milikmu, contohnya seperti dibawah semisal menambahkan script binarysearch.java maka struktur foldernya akan seperti gambar dibawah.
 
