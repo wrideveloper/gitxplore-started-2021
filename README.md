@@ -44,7 +44,7 @@ Jangan sembarangan dalam membuat struktur folder dan file ya, nanti pullreqnya a
 
 ### 5. Tambahkan file .MD anda seperti IDE / Gambaran / Project Screenshoot :smirk_cat:
 
-Setelah itu tambahkan file yang pernah anda buat didalam folder milikmu, contohnya seperti dibawah semisal menambahkan script binarysearch.java maka struktur foldernya akan seperti gambar dibawah.
+Setelah itu tambahkan file yang pernah anda buat didalam folder milikmu, contohnya seperti dibawah semisal menambahkan IDE / Project Showcase maka struktur foldernya akan seperti gambar dibawah.
 
 ```
 src/
@@ -65,7 +65,7 @@ Kembalilah ke root folder. Lalu tambahkan folder yang telah anda buat tadi, jika
 
 Tambahkan pesan commit
 
-`git commit -m "Adding binarysearch.java"`
+`git commit -m "Adding IDE.md"`
 
 Push project yang telah anda buat dengan perintah
 
