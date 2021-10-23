@@ -1,3 +1,5 @@
 # UI &UX
 ## kfcku-redesign
-Redesign aplikasi KFCKU
+Redesign aplikasi KFCKU.
+
+Merupakan case study anggota miniclas UI&UX
