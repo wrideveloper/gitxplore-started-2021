@@ -40,7 +40,9 @@ Menu Makanan:
 
 ![image](https://user-images.githubusercontent.com/86558365/138544088-25705699-3a45-4f78-b78c-e90ac113a1c5.png)
 
+Dark Mode:
 
+![image](https://user-images.githubusercontent.com/86558365/138544135-107bdd58-98b8-4909-8853-91457f86d273.png)
 
 
 
