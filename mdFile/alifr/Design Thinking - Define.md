@@ -16,3 +16,5 @@ Selanjutnya kita mengelompokkan permasalahan yang berupa statements tersebut ked
 Berikut adalah hasil pengelompokan user need statement ke dalam jenis dan prioritas-nya:
 
 ![image](https://user-images.githubusercontent.com/86558365/138447758-20cd52c8-e3ee-4ad5-9f1d-9d12847cdcaf.png)
+
+Tahap ini menggunakan tool [miro](https://miro.com/app)
