@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575053618983",
+    "firebase_url": "https://buka-hero-academia.firebaseio.com",
+    "project_id": "buka-hero-academia",
+    "storage_bucket": "buka-hero-academia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575053618983:android:692fc962cfdc079f205302",
+        "android_client_info": {
+          "package_name": "com.example.buka_hero_academia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575053618983-e747cpol2l2498ftphccefudmu1offaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buka_hero_academia",
+            "certificate_hash": "afa2f470ddccc796cda502d31aa486f0c93e827e"
+          }
+        },
+        {
+          "client_id": "575053618983-ojp5kau6g0chor7srealgslrfg9d7rbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkRTyiJU9qvfM47Le7YwAedlCzSrzktg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575053618983-ojp5kau6g0chor7srealgslrfg9d7rbe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575053618983-9ra6kddbvsusm7qa1epmgbhcc2mjvco1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bukaHeroAcademia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
