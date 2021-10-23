@@ -8,3 +8,5 @@ Kali ini aku bersama team miniclass ux akan memulai tahap design thinking - empa
 Berikut adalah ringkasan hasil analisis SWOT kami: 
 
 ![image](https://user-images.githubusercontent.com/86558365/138441985-14c0b0c7-3f90-429e-9577-899fa61d24fd.png)
+
+Tahap ini menggunakan tool [miro](https://miro.com/app)
