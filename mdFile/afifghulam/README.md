@@ -8,6 +8,6 @@ Aplikasi web based menampilkan kuliner lokal. merupakan hasil dari matakuliah de
 
 Fitur - fitur sederhana
 
-- Food List
+- Food Gallery
 - Recomended Food
 - Maps for Guide

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Beranda</title>
+    <link rel="stylesheet" type="text/css" href="style/style-header.css" />
+    <link rel="stylesheet" href="style/style.css" />
+    <script src="jquery-3.5.1.js"></script>
+    <script>
+      var i = 0;
+      $(document).ready(function () {
+        $("#slider img").hide();
+        showNextImage();
+        setInterval("showNextImage()", 3000);
+      });
+
+      function showNextImage() {
+        i++;
+        $("#sliderImage" + i)
+          .appendTo("#slider")
+          .fadeIn(1100)
+          .delay(1100)
+          .fadeOut(1100);
+        if (i == 4) {
+          i = 0;
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1 class="logo">FindIt.</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Gallery</a></li>
+          <li><a href="#">Recomended</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!--KONTEN-->
+    <div class="content">
+      <h2>Welcome aboard !</h2>
+      <p>
+        Kami menyajikan burger yang berkualitas tinggi. Dan kami memastikan bahwa burger yang anda pesan berasal dari bahan-bahan yang segar dan didapat dari komoditas lokal. Kami menggunakan bahan-bahan terbaik yang mementingkan mutu dan
+        kualitas demi konsumen kami.
+      </p>
+      <a href="Order.html"><button class="button" style="vertical-align: middle">Find More</button></a>
+      <br />
+    </div>
+
+    <div id="slider">
+      <img id="sliderImage1" src="" />
+
+      <img id="sliderImage2" src="" />
+
+      <img id="sliderImage3" src="" />
+
+      <img id="sliderImage4" src="" />
+    </div>
+
+    <div id="background1">
+      <img src="" alt="" />
+    </div>
+  </body>
+</html>
