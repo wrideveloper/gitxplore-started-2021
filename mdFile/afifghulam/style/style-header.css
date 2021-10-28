@@ -12,7 +12,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 30px 100px;
+  margin: 30px 78px;
   position: sticky;
   background-color: white;
 }
@@ -25,4 +25,11 @@ a {
   text-align: center;
   text-decoration: none;
   list-style: none;
+  transition: all 0.5s;
+}
+
+li,
+a:hover {
+  color: #2ecc71;
+  transition: 0.5s ease 0s;
 }
