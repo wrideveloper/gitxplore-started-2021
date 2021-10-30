@@ -1,0 +1,1 @@
+Jadi ini diisi dengan IDE ataupun PROJECT SHOWCASE teman teman dapat diisi juga dengan link REPO github aplikasi ataupun pekerjaan temen2 yang pernah dikerjakan sebelumnya.
