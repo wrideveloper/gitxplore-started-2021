@@ -1,0 +1,1 @@
+Pertemuan pertama WRI membahas mengenai git dan github
