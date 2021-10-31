@@ -1,0 +1,1 @@
+Halo Kakak Kakak, Nadia hadir, meskipun telat hehe
