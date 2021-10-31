@@ -11,25 +11,20 @@
 .showcase {
   display: flex;
   margin: 30px 78px;
-  min-height: 40vh;
-  max-height: 1000px;
+  min-height: 50vh;
   align-items: center;
 }
 
 #gallery {
-  padding-top: 300px;
+  padding-top: 200px;
   margin: 30px 78px;
 }
 
 .content {
   display: flex;
-  justify-content: space-around;
-  margin-top: 25px;
-}
-
-.content-gallery {
-  display: flex;
-  background-color: #2ecc71;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .intro-text-layout {
@@ -57,4 +52,13 @@ footer {
   bottom: 0;
   width: 100%;
   position: fixed;
+}
+
+img {
+  width: 265px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
 }
